@@ -33,7 +33,9 @@
 .layer-3QrUeG,.layers-3iHuyZ {
 	background: var(--main-dark)!important
 }
-
+.form-2fGMdU:before {
+	top: 0
+}
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC,.theme-light .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
 	background-color: var(--main-dark)
 }
